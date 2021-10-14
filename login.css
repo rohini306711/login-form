@@ -1,0 +1,97 @@
+ 
+ .login
+ {
+ 	background-image:url('key.jpg');
+ 	background-repeat:no-repeat;
+ 	background-position:center;
+ 	background-size: cover;
+ 	height:600px;
+ 	text-align: center;
+     font-family:crimson;
+ 	font-style: italic;
+ 
+ }
+ .login img
+ {
+ 	height: 80px;
+ 	width: 80px;
+ 	border-radius:50%;
+ 	position: relative;
+ 	top:30px;}
+
+.login-button
+{
+	background-color: red;
+	width: 200px;
+	height:35px;
+	border-radius:30px;
+	padding:8px;
+	border: 0;
+}
+.login-button a
+{
+	text-decoration: none;
+	color: white;
+	font-size:20px;
+}
+  .login span
+ {
+    color:red;
+    position: relative;
+    right:35px;
+ }
+
+ .login span:hover
+ {
+ 	color: green;
+ }
+
+ input[type="text"]
+ {
+ 	border: 1px solid white;
+ 	background-color: transparent;
+ 	border-radius:30px;
+ 	outline: 0;
+ }
+input[type="text"]:hover
+ {
+ 	border:1px solid red;
+ 	background-color: transparent;
+border-radius:30px;
+ }
+
+
+
+  input[type="password"]
+ {
+ 	border:1px solid white;
+ 	background-color: transparent;
+ 	border-radius:30px;
+ 	outline: 0;
+ }
+
+input[type="password"]:hover
+ {
+ 	border:1px solid red;
+ 	background-color: transparent;
+border-radius:30px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
