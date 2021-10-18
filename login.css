@@ -48,33 +48,36 @@
 
  input[type="text"]
  {
- 	border: 1px solid white;
+ 	
  	background-color: transparent;
- 	border-radius:30px;
- 	outline: 0;
+  border: 0;
+  outline: 0;
+ 	
  }
 input[type="text"]:hover
  {
- 	border:1px solid red;
+ 	
  	background-color: transparent;
-border-radius:30px;
+border: 0;
+outline: 0;
  }
 
 
 
   input[type="password"]
  {
- 	border:1px solid white;
+ 	
  	background-color: transparent;
- 	border-radius:30px;
- 	outline: 0;
+ border: 0;
+ outline: 0;
  }
 
 input[type="password"]:hover
  {
- 	border:1px solid red;
+ 	
  	background-color: transparent;
-border-radius:30px;
+border: 0;
+outline: 0;
  }
 
 
