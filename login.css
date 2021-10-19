@@ -50,19 +50,10 @@
  {
  	
  	background-color: transparent;
-  border: 0;
-  outline: 0;
- 	
+  border:0;
+  outline:0;
+ 	border-bottom: 1px solid white;
  }
-input[type="text"]:hover
- {
- 	
- 	background-color: transparent;
-border: 0;
-outline: 0;
- }
-
-
 
   input[type="password"]
  {
@@ -70,15 +61,10 @@ outline: 0;
  	background-color: transparent;
  border: 0;
  outline: 0;
+ border-bottom: 1px solid white;
  }
 
-input[type="password"]:hover
- {
- 	
- 	background-color: transparent;
-border: 0;
-outline: 0;
- }
+
 
 
 
